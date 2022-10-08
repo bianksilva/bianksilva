@@ -1,13 +1,13 @@
 
-  <h1>✨Olá! Bem vinda(o)!✨</h1>
-  <div style="display: block">
-  <img align="left" alt="Bia" height="130" src="https://github.com/bianksilva/bianksilva/blob/main/gif-github.gif">
- 
-  <h4>Graduada em Análise e Desenvolvimento de Sistemas e migrando de carreira para a área de desenvolvimento!</h4>
-  <p>Atualmente fazendo bootcamps, hackathons, trilhas, todos os processos em que eu puder aprender e em busca da melhor consequência disso tudo, uma oportunidade para atuar como      Dev!😁</p>
+  <h1>✨Olá! Bem vind@!✨</h1>
+  <div style="display:block">
+  <h4>Graduada em Análise e Desenvolvimento de Sistemas, buscando espaço na área de desenvolvimento</h4>
+  <p>Atualmente sou Analista de Sistemas na Luizalabs e sigo fazendo bootcamps, hackathons, trilhas, todos os
+    processos em que eu puder aprender 😁</p>
   </div>
   
-  <div style="display: block">        
+  <div style="display: inline-block"> 
+  <img align="right" alt="Bia" height="140" src="https://github.com/bianksilva/bianksilva/blob/main/gif-github.gif">
       <a href = "mailto:silvabianca0696@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"              target="_blank"></a>
       <a href="https://instagram.com/bianca_s1lv4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"            target="_blank"></a>
       <a href="https://www.linkedin.com/in/bianca-silva-goncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
