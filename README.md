@@ -1,7 +1,7 @@
 
   <h1>✨Olá! Bem vind@!✨</h1>
   <div style="display:block">
-  <h4>Graduada em Análise e Desenvolvimento de Sistemas, Pós graduanda em Desenvolvimento de Sistemas com Java, buscando espaço na área de desenvolvimento</h4>
+  <h4>Graduada em Análise e Desenvolvimento de Sistemas, Pós graduada em Desenvolvimento de Sistemas com Java, buscando espaço na área de desenvolvimento</h4>
   <p>Atualmente sou Analista de Sistemas na Luizalabs e sigo fazendo bootcamps, hackathons, trilhas, todos os
     processos em que eu puder aprender 😁</p>
   </div>
